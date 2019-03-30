@@ -12,23 +12,27 @@ var teamMap = L.map("map", {
   }).addTo(teamMap);
 
 // loading in the csv to add team names to the dropdown menu
+var select = d3.select('#selTeam')
+
 d3.csv("Resources/bball_school_data.csv", function(error, teams) {
   if (error) return (console.warn(error))
   
   var teamNames = teams.map(data => data.School)
   console.log(teamNames)
-  var select = d3.select('#selTeam')
+  
+  for (var i = 0; i < teamNames.length; i++) {
+    select.selectAll('option')
+      .data(teamNames)
+      .enter()
+      .append('option')
+      .text(teamNames[i])
+      .property('value', teamNames[i])
+  }
 
   select.on('change', function(d) {
     d3.select(this).value(teamNames)
-  })
-
-  select.selectAll('option')
-    .data(teamNames)
-    .enter()
-    .append('option')
-    .text(teamNames[i])
-    })    
+    })
+  })    
   
 
 

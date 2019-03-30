@@ -1,0 +1,17 @@
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+
+.dropdown {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+  

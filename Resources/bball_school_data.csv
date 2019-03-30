@@ -1,0 +1,66 @@
+,UNITID,CITY,INSTNM_x,STABBR,LATITUDE,LONGITUDE,ADM_RATE,SAT_AVG,TUITIONFEE_IN,TUITIONFEE_OUT,Seed,School,Conference,Record,Overall Seed,Berth type
+0,222178,Abilene,Abilene Christian University,TX,32.468942999999996,-99.709797,50.89,1077.0,32070.0,32070.0,15,Abilene Christian,Southland,27–6,62.0,Automatic
+1,104151,Tempe,Arizona State University-Tempe,AZ,33.417721,-111.93438300000001,82.5,1147.0,10370.0,26470.0,11*,Arizona State,Pac-12,22–10,45.0,At-Large
+2,100858,Auburn,Auburn University,AL,32.599378,-85.488258,80.54,1217.0,10696.0,28840.0,5,Auburn,SEC,26–9,18.0,Automatic
+3,223232,Waco,Baylor University,TX,31.548959999999997,-97.117641,39.72,1246.0,42006.0,42006.0,9,Baylor,Big 12,19–12,35.0,At-Large
+4,219709,Nashville,Belmont University,TN,36.133866,-86.794715,81.04,1185.0,31390.0,31390.0,11*,Belmont,Ohio Valley,26–5,42.0,At-Large
+5,143358,Peoria,Bradley University,IL,40.696896,-89.616786,69.81,1141.0,32120.0,32120.0,15,Bradley,Missouri Valley,20–14,61.0,Automatic
+6,196088,Buffalo,University at Buffalo,NY,43.000941999999995,-78.789458,59.38,1181.0,9574.0,26814.0,6,Buffalo,MAC,31–3,23.0,Automatic
+7,110653,Irvine,University of California-Irvine,CA,33.648434,-117.841248,40.65,1206.0,13360.0,40042.0,13,UC Irvine,Big West,30–5,51.0,Automatic
+8,132903,Orlando,University of Central Florida,FL,28.602159000000004,-81.200889,49.99,1179.0,6368.0,22467.0,9,UCF,American,23–8,34.0,At-Large
+9,201885,Cincinnati,University of Cincinnati-Main Campus,OH,39.131159000000004,-84.51428,76.42,1164.0,11000.0,26334.0,7,Cincinnati,American,28–6,27.0,Automatic
+10,190099,Hamilton,Colgate University,NY,42.819475,-75.536346,28.78,1388.0,51955.0,51955.0,15,Colgate,Patriot,24–10,60.0,Automatic
+11,198419,Durham,Duke University,NC,36.001135,-78.937624,10.83,1460.0,51265.0,51265.0,1,Duke,ACC,29–5,1.0,Automatic
+12,184694,Madison,Fairleigh Dickinson University-Florham Campus,NJ,40.774498,-74.432121,79.09,1030.0,40234.0,40234.0,16*,Fairleigh Dickinson,Northeast,20–13,66.0,Automatic
+13,134130,Gainesville,University of Florida,FL,29.646290000000004,-82.347911,45.94,1287.0,6381.0,28659.0,10,Florida,SEC,19–15,40.0,At-Large
+14,134097,Tallahassee,Florida State University,FL,30.440756,-84.291921,58.01,1214.0,6507.0,21673.0,4,Florida State,ACC,27–7,14.0,At-Large
+15,198561,Boiling Springs,Gardner-Webb University,NC,35.24732,-81.668141,51.88,987.0,29810.0,29810.0,16,Gardner–Webb,Big South,23–11,63.0,Automatic
+16,139940,Atlanta,Georgia State University,GA,33.7527,-84.38667,58.84,1070.0,8974.0,23542.0,14,Georgia State,Sun Belt,24–9,57.0,Automatic
+17,235316,Spokane,Gonzaga University,WA,47.666531,-117.400625,67.29,1224.0,39730.0,39730.0,1,Gonzaga,WCC,30–3,4.0,At-Large
+18,225511,Houston,University of Houston,TX,29.720392999999998,-95.343537,58.540000000000006,1152.0,9519.0,21711.0,3,Houston,American,31–3,9.0,At-Large
+19,191931,New Rochelle,Iona College,NY,40.925725,-73.788046,91.46,1005.0,36584.0,36584.0,16,Iona,MAAC,17–15,64.0,Automatic
+20,153658,Iowa City,University of Iowa,IA,41.661935,-91.536425,84.11,1165.0,8575.0,28813.0,10,Iowa,Big Ten,22–11,37.0,At-Large
+21,153603,Ames,Iowa State University,IA,42.026212,-93.648504,87.49,1144.0,8219.0,21583.0,6,Iowa State,Big 12,23–11,24.0,Automatic
+22,155317,Lawrence,University of Kansas,KS,38.958549,-95.247567,93.01,1185.0,11455.0,28239.0,4,Kansas,Big 12,25–9,13.0,At-Large
+23,155399,Manhattan,Kansas State University,KS,39.188648,-96.58107700000001,94.07,,9874.0,24775.0,4,Kansas State,Big 12,25–9,15.0,At-Large
+24,157085,Lexington,University of Kentucky,KY,38.038911,-84.504747,90.79,1159.0,11484.0,26334.0,2,Kentucky,SEC,27–6,7.0,At-Large
+25,232557,Lynchburg,Liberty University,VA,37.350232,-79.18222,24.38,1094.0,21292.0,21292.0,12,Liberty,Atlantic Sun,28–6,50.0,Automatic
+26,159391,Baton Rouge,Louisiana State University and Agricultural & Mechanical College,LA,30.414986,-91.178921,76.39,1162.0,10814.0,27491.0,3,LSU,SEC,26–6,11.0,At-Large
+27,157289,Louisville,University of Louisville,KY,38.216862,-85.760412,72.57000000000001,1165.0,11264.0,26286.0,7,Louisville,ACC,20–13,25.0,At-Large
+28,239105,Milwaukee,Marquette University,WI,43.03903,-87.927961,84.34,1199.0,38470.0,38470.0,5,Marquette,Big East,24–9,17.0,At-Large
+29,163286,College Park,University of Maryland-College Park,MD,38.988178000000005,-76.944721,48.06,1337.0,10181.0,32045.0,6,Maryland,Big Ten,22–10,22.0,At-Large
+30,170976,Ann Arbor,University of Michigan-Ann Arbor,MI,42.275921000000004,-83.742769,28.59,1386.0,14402.0,45410.0,2,Michigan,Big Ten,28–6,8.0,At-Large
+31,171100,East Lansing,Michigan State University,MI,42.73212,-84.476111,65.74,1194.0,14062.0,37890.0,2,Michigan State,Big Ten,28–6,6.0,Automatic
+32,174066,Minneapolis,University of Minnesota-Twin Cities,MN,44.972851,-93.23546400000001,44.41,1288.0,14142.0,23806.0,10,Minnesota,Big Ten,21–13,39.0,At-Large
+33,176080,Mississippi State,Mississippi State University,MS,33.454852,-88.790139,55.669999999999995,1125.0,7780.0,20900.0,,,,,,
+34,176017,University,University of Mississippi,MS,34.365528999999995,-89.53743399999999,78.3,1155.0,7744.0,22012.0,8,Ole Miss,SEC,20–12,31.0,At-Large
+35,180489,Missoula,The University of Montana,MT,46.859312,-113.98291200000001,92.43,1072.0,6238.0,23764.0,15,Montana,Big Sky,26–8,59.0,Automatic
+36,157401,Murray,Murray State University,KY,36.612419,-88.323629,85.35000000000001,1101.0,8400.0,22680.0,12,Murray State,Ohio Valley,27–4,46.0,Automatic
+37,157447,Highland Heights,Northern Kentucky University,KY,39.029714,-84.463483,91.09,1066.0,9384.0,18384.0,14,Northern Kentucky,Horizon,26–8,58.0,Automatic
+38,199120,Chapel Hill,University of North Carolina at Chapel Hill,NC,35.911769,-79.050969,26.939999999999998,1338.0,8834.0,33916.0,1,North Carolina,ACC,27–6,3.0,At-Large
+39,200332,Fargo,North Dakota State University-Main Campus,ND,46.893127,-96.800838,92.8,1091.0,8327.0,19891.0,16*,North Dakota State,Summit,18–15,67.0,Automatic
+40,182290,Reno,University of Nevada-Reno,NV,39.543642,-119.815377,82.80999999999999,1088.0,7142.0,21052.0,7,Nevada,Mountain West,29–4,26.0,At-Large
+41,188030,Las Cruces,New Mexico State University-Main Campus,NM,32.281568,-106.75206899999999,59.61,982.0,6094.0,19652.0,12,New Mexico State,WAC,30–4,49.0,Automatic
+42,167358,Boston,Northeastern University,MA,42.339991999999995,-71.088782,28.88,1434.0,47653.0,47653.0,13,Northeastern,CAA,23–10,54.0,Automatic
+43,204796,Columbus,Ohio State University-Main Campus,OH,39.999324,-83.014853,54.11,1296.0,10037.0,28229.0,11,Ohio State,Big Ten,19–14,41.0,At-Large
+44,207500,Norman,University of Oklahoma-Norman Campus,OK,35.209407,-97.444211,70.84,1189.0,10881.0,25203.0,9,Oklahoma,Big 12,19–13,36.0,At-Large
+45,232982,Norfolk,Old Dominion University,VA,36.886418,-76.30666,84.64,1010.0,9750.0,26730.0,14,Old Dominion,C-USA,26–8,56.0,Automatic
+46,209551,Eugene,University of Oregon,OR,44.045146,-123.07579199999999,77.86999999999999,1111.0,10761.0,33441.0,12,Oregon,Pac-12,23–12,48.0,Automatic
+47,243780,West Lafayette,Purdue University-Main Campus,IN,40.428206,-86.914435,55.97,1228.0,10002.0,28804.0,3,Purdue,Big Ten,23–9,12.0,At-Large
+48,123554,Moraga,Saint Mary's College of California,CA,37.840731,-122.109031,80.39,1093.0,44360.0,44360.0,11,Saint Mary's,West Coast,22–11,44.0,Automatic
+49,186584,South Orange,Seton Hall University,NJ,40.742336,-74.246027,66.9,1156.0,39258.0,39258.0,10,Seton Hall,Big East,20–12,38.0,At-Large
+50,179159,Saint Louis,Saint Louis University,MO,38.636801,-90.2351,64.74,1259.0,40726.0,40726.0,13,Saint Louis,Atlantic 10,23–12,53.0,Automatic
+51,196413,Syracuse,Syracuse University,NY,43.040176,-76.136975,52.32,1204.0,45022.0,45022.0,8,Syracuse,ACC,20–13,30.0,At-Large
+52,221740,Chattanooga,The University of Tennessee-Chattanooga,TN,35.048246999999996,-85.299812,78.25999999999999,1088.0,8544.0,24662.0,2,Tennessee,SEC,29–5,5.0,At-Large
+53,229115,Lubbock,Texas Tech University,TX,33.583448,-101.874783,62.6,1117.0,8428.0,18220.0,3,Texas Tech,Big 12,26–6,10.0,At-Large
+54,230728,Logan,Utah State University,UT,41.740747999999996,-111.81391,90.25,1087.0,7426.0,20492.0,8,Utah State,Mountain West,28–6,32.0,Automatic
+55,234155,Petersburg,Virginia State University,VA,37.236453000000004,-77.419886,94.48,817.0,8472.0,19002.0,4,Virginia Tech,ACC,24–8,16.0,At-Large
+56,234155,Petersburg,Virginia State University,VA,37.236453000000004,-77.419886,94.48,817.0,8472.0,19002.0,5,Mississippi State,SEC,23–10,20.0,At-Large
+57,234030,Richmond,Virginia Commonwealth University,VA,37.547631,-77.453597,81.15,1094.0,13130.0,32287.0,8,VCU,Atlantic 10,25–7,29.0,At-Large
+58,231174,Burlington,University of Vermont,VT,44.477325,-73.196646,68.94,1216.0,17300.0,40364.0,13,Vermont,America East,27–6,52.0,Automatic
+59,216597,Villanova,Villanova University,PA,40.039388,-75.345457,43.5,1350.0,49280.0,49280.0,6,Villanova,Big East,25–9,21.0,Automatic
+60,234076,Charlottesville,University of Virginia-Main Campus,VA,38.035665,-78.503428,29.86,1362.0,16412.0,45756.0,1,Virginia,ACC,29–3,2.0,At-Large
+61,236948,Seattle,University of Washington-Seattle Campus,WA,47.65538,-122.30514,45.35,1266.0,10753.0,34791.0,9,Washington,Pac-12,26–8,33.0,At-Large
+62,240444,Madison,University of Wisconsin-Madison,WI,43.075409,-89.404098,52.62,1302.0,10488.0,32738.0,5,Wisconsin,Big Ten,23–10,19.0,At-Large
+63,218973,Spartanburg,Wofford College,SC,34.959410999999996,-81.93356800000001,70.11,1185.0,40245.0,40245.0,7,Wofford,Southern,29–4,28.0,Automatic
+64,130794,New Haven,Yale University,CT,41.311158,-72.926688,6.32,1502.0,49480.0,49480.0,14,Yale,Ivy,22–7,55.0,Automatic

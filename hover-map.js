@@ -1,6 +1,7 @@
 var teamMap = L.map("map", {
     center: [39.50, -98.35],
-    zoom: 5
+    zoom: 5,
+    zoomControl: true
   });
   
   // Adding tile layer
@@ -11,42 +12,57 @@ var teamMap = L.map("map", {
     accessToken: API_KEY
   }).addTo(teamMap);
 
-// loading in the csv to add team names to the dropdown menu
-d3.csv("Resources/bball_school_data.csv", function(error, teams) {
+
+  //function to add schools location markers using lat/long
+var school_markers = "school_markers.json";
+
+
+d3.json(school_markers, function(response) {
+
+  for (var m = 0; m < response.length; m++) {
+    var myIcon = L.icon({
+      iconUrl: response[m].schoolIcon,
+      iconSize: [25, 25],
+      iconAnchor: [22, 22],
+      popupAnchor: [-10, -20],
+    });
+    L.marker([response[m].LATITUDE, response[m].LONGITUDE], {icon: myIcon}).addTo(teamMap)
+    .bindPopup(`${response[m].School}<br>
+                ${response[m].CITY}, ${response[m].STABBR}<br>
+                Conference: ${response[m].Conference}<br>
+                Record: ${response[m].Record}<br>
+                Overall Seed: ${response[m]['Overall Seed']}<br>
+                <hr>
+                Admission Rate: ${response[m].ADM_RATE}%<br>
+                Average SAT: ${response[m].SAT_AVG}`)
+    .openPopup()
+  }
+
+});
+
+
+teamMap.scrollWheelZoom.disable();
+
+
+//dropdown menu with zoom
+var select = d3.select('#selTeam')
+
+d3.json('school_markers.json', function(error, teams) {
   if (error) return (console.warn(error))
-  
-  var teamNames = teams.map(data => data.School)
-  console.log(teamNames)
-  var select = d3.select('#selTeam')
 
-  select.on('change', function(d) {
-    d3.select(this).value(teamNames)
-  })
+  const optionSelection = select.selectAll('option').data(teams)
 
-  select.selectAll('option')
-    .data(teamNames)
-    .enter()
+  optionSelection.enter()
     .append('option')
-    .text(teamNames[i])
-    })    
-  
+    .text(d => d.School)
+    .attr('value', (d, i) => i)
 
-
-
-  //need to finish below location variable to pull
-  //in the lat long of the tourney teams
-  // var location = "tourney-teams.csv";
-
-// d3.json(newtry, function(response) {
-
-//   console.log(response);
-
-//   for (var i = 0; i < response.length; i++) {
-//     var location = response[i].location;
-
-//     if (location) {
-//       L.marker([location.coordinates[1], location.coordinates[0]]).addTo(teamMap);
-//     }
-//   }
-
-// })
+  select.on('change', () => {
+      var index = select.property('value')
+      var d = teams[index]
+      var zoom = 10
+      var lat = d.LATITUDE
+      var long = d.LONGITUDE
+      teamMap.setView([lat, long], zoom)
+    })
+  })

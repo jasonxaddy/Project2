@@ -16,8 +16,12 @@
     "Conference": "Southland",
     "Record": "27–6",
     "Overall Seed": 62,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/abilene-christian.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 1,
@@ -36,8 +40,12 @@
     "Conference": "Pac-12",
     "Record": "22–10",
     "Overall Seed": 45,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/arizona-st.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 2,
@@ -56,8 +64,12 @@
     "Conference": "SEC",
     "Record": "26–9",
     "Overall Seed": 18,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/auburn.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 3,
@@ -76,8 +88,12 @@
     "Conference": "Big 12",
     "Record": "19–12",
     "Overall Seed": 35,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/baylor.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 4,
@@ -96,8 +112,12 @@
     "Conference": "Ohio Valley",
     "Record": "26–5",
     "Overall Seed": 42,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/belmont.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 5,
@@ -116,8 +136,12 @@
     "Conference": "Missouri Valley",
     "Record": "20–14",
     "Overall Seed": 61,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/bradley.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 6,
@@ -136,8 +160,12 @@
     "Conference": "MAC",
     "Record": "31–3",
     "Overall Seed": 23,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/buffalo.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 7,
@@ -156,8 +184,12 @@
     "Conference": "Big West",
     "Record": "30–5",
     "Overall Seed": 51,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/uc-irvine.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 8,
@@ -176,8 +208,12 @@
     "Conference": "American",
     "Record": "23–8",
     "Overall Seed": 34,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/ucf.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 9,
@@ -196,8 +232,12 @@
     "Conference": "American",
     "Record": "28–6",
     "Overall Seed": 27,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/cincinnati.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 10,
@@ -216,8 +256,12 @@
     "Conference": "Patriot",
     "Record": "24–10",
     "Overall Seed": 60,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/colgate.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 11,
@@ -236,8 +280,12 @@
     "Conference": "ACC",
     "Record": "29–5",
     "Overall Seed": 1,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/duke.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 12,
@@ -256,8 +304,12 @@
     "Conference": "Northeast",
     "Record": "20–13",
     "Overall Seed": 66,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/fairleigh-dickinson.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 13,
@@ -276,8 +328,12 @@
     "Conference": "SEC",
     "Record": "19–15",
     "Overall Seed": 40,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/florida.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 14,
@@ -296,8 +352,12 @@
     "Conference": "ACC",
     "Record": "27–7",
     "Overall Seed": 14,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/florida-st.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 15,
@@ -316,8 +376,12 @@
     "Conference": "Big South",
     "Record": "23–11",
     "Overall Seed": 63,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/gardner-webb.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 16,
@@ -336,8 +400,12 @@
     "Conference": "Sun Belt",
     "Record": "24–9",
     "Overall Seed": 57,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/georgia-st.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 17,
@@ -356,8 +424,12 @@
     "Conference": "WCC",
     "Record": "30–3",
     "Overall Seed": 4,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/gonzaga.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 18,
@@ -376,8 +448,12 @@
     "Conference": "American",
     "Record": "31–3",
     "Overall Seed": 9,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/houston.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 19,
@@ -396,8 +472,12 @@
     "Conference": "MAAC",
     "Record": "17–15",
     "Overall Seed": 64,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/iona.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 20,
@@ -416,8 +496,12 @@
     "Conference": "Big Ten",
     "Record": "22–11",
     "Overall Seed": 37,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/iowa.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 21,
@@ -436,8 +520,12 @@
     "Conference": "Big 12",
     "Record": "23–11",
     "Overall Seed": 24,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/iowa-st.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 22,
@@ -456,8 +544,12 @@
     "Conference": "Big 12",
     "Record": "25–9",
     "Overall Seed": 13,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 23,
@@ -476,8 +568,12 @@
     "Conference": "Big 12",
     "Record": "25–9",
     "Overall Seed": 15,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas-st.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 24,
@@ -496,8 +592,12 @@
     "Conference": "SEC",
     "Record": "27–6",
     "Overall Seed": 7,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kentucky.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 25,
@@ -516,8 +616,12 @@
     "Conference": "Atlantic Sun",
     "Record": "28–6",
     "Overall Seed": 50,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/liberty.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 26,
@@ -536,8 +640,12 @@
     "Conference": "SEC",
     "Record": "26–6",
     "Overall Seed": 11,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/lsu.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 27,
@@ -556,8 +664,12 @@
     "Conference": "ACC",
     "Record": "20–13",
     "Overall Seed": 25,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/louisville.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 28,
@@ -576,8 +688,12 @@
     "Conference": "Big East",
     "Record": "24–9",
     "Overall Seed": 17,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/marquette.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 29,
@@ -596,8 +712,12 @@
     "Conference": "Big Ten",
     "Record": "22–10",
     "Overall Seed": 22,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/maryland.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 30,
@@ -616,8 +736,12 @@
     "Conference": "Big Ten",
     "Record": "28–6",
     "Overall Seed": 8,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/michigan.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 31,
@@ -636,8 +760,12 @@
     "Conference": "Big Ten",
     "Record": "28–6",
     "Overall Seed": 6,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/michigan-st.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 32,
@@ -656,8 +784,12 @@
     "Conference": "Big Ten",
     "Record": "21–13",
     "Overall Seed": 39,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/minnesota.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 33,
@@ -676,8 +808,12 @@
     "Conference": "SEC",
     "Record": "23–10",
     "Overall Seed": 20,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/mississippi-st.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 34,
@@ -696,8 +832,12 @@
     "Conference": "SEC",
     "Record": "20–12",
     "Overall Seed": 31,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/ole-miss.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 35,
@@ -716,8 +856,12 @@
     "Conference": "Big Sky",
     "Record": "26–8",
     "Overall Seed": 59,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/montana.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 36,
@@ -736,8 +880,12 @@
     "Conference": "Ohio Valley",
     "Record": "27–4",
     "Overall Seed": 46,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/murray-st.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 37,
@@ -756,8 +904,12 @@
     "Conference": "Horizon",
     "Record": "26–8",
     "Overall Seed": 58,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/northern-ky.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 38,
@@ -776,8 +928,12 @@
     "Conference": "ACC",
     "Record": "27–6",
     "Overall Seed": 3,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/north-carolina.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 39,
@@ -796,8 +952,12 @@
     "Conference": "Summit",
     "Record": "18–15",
     "Overall Seed": 67,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/north-dakota-st.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 40,
@@ -816,8 +976,12 @@
     "Conference": "Mountain West",
     "Record": "29–4",
     "Overall Seed": 26,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/nevada.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 41,
@@ -836,8 +1000,12 @@
     "Conference": "WAC",
     "Record": "30–4",
     "Overall Seed": 49,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/new-mexico-st.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 42,
@@ -856,8 +1024,12 @@
     "Conference": "CAA",
     "Record": "23–10",
     "Overall Seed": 54,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/northeastern.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 43,
@@ -876,8 +1048,12 @@
     "Conference": "Big Ten",
     "Record": "19–14",
     "Overall Seed": 41,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/ohio-st.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 44,
@@ -896,8 +1072,12 @@
     "Conference": "Big 12",
     "Record": "19–13",
     "Overall Seed": 36,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/oklahoma.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 45,
@@ -916,8 +1096,12 @@
     "Conference": "C-USA",
     "Record": "26–8",
     "Overall Seed": 56,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/old-dominion.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 46,
@@ -936,8 +1120,12 @@
     "Conference": "Pac-12",
     "Record": "23–12",
     "Overall Seed": 48,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/oregon.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 47,
@@ -956,8 +1144,12 @@
     "Conference": "Big Ten",
     "Record": "23–9",
     "Overall Seed": 12,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/purdue.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 48,
@@ -976,8 +1168,12 @@
     "Conference": "West Coast",
     "Record": "22–11",
     "Overall Seed": 44,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/st-marys-ca.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 49,
@@ -996,8 +1192,12 @@
     "Conference": "Big East",
     "Record": "20–12",
     "Overall Seed": 38,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/seton-hall.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 50,
@@ -1016,8 +1216,12 @@
     "Conference": "Atlantic 10",
     "Record": "23–12",
     "Overall Seed": 53,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/saint-louis.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 51,
@@ -1036,8 +1240,12 @@
     "Conference": "ACC",
     "Record": "20–13",
     "Overall Seed": 30,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/syracuse.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 52,
@@ -1056,8 +1264,12 @@
     "Conference": "SEC",
     "Record": "29–5",
     "Overall Seed": 5,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/tennessee.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 53,
@@ -1076,8 +1288,12 @@
     "Conference": "Big 12",
     "Record": "26–6",
     "Overall Seed": 10,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-tech.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 54,
@@ -1096,14 +1312,23 @@
     "Conference": "Mountain West",
     "Record": "28–6",
     "Overall Seed": 32,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/utah-st.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 55,
     "UNITID": 234155,
+<<<<<<< HEAD
     "CITY": "Blacksburg",
     "INSTNM_x": "Virginia Tech University",
+=======
+    "CITY": "Petersburg",
+    "INSTNM_x": "Virginia State University",
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
     "STABBR": "VA",
     "LATITUDE": 37.236453,
     "LONGITUDE": -77.419886,
@@ -1116,8 +1341,31 @@
     "Conference": "ACC",
     "Record": "24–8",
     "Overall Seed": 16,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/virginia-tech.svg"
+=======
+    "Berth type": "At-Large"
+  },
+  {
+    "": 56,
+    "UNITID": 234155,
+    "CITY": "Petersburg",
+    "INSTNM_x": "Virginia State University",
+    "STABBR": "VA",
+    "LATITUDE": 37.236453,
+    "LONGITUDE": -77.419886,
+    "ADM_RATE": 94.48,
+    "SAT_AVG": 817,
+    "TUITIONFEE_IN": 8472,
+    "TUITIONFEE_OUT": 19002,
+    "Seed": 5,
+    "School": "Mississippi State",
+    "Conference": "SEC",
+    "Record": "23–10",
+    "Overall Seed": 20,
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 57,
@@ -1136,8 +1384,12 @@
     "Conference": "Atlantic 10",
     "Record": "25–7",
     "Overall Seed": 29,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/vcu.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 58,
@@ -1156,8 +1408,12 @@
     "Conference": "America East",
     "Record": "27–6",
     "Overall Seed": 52,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/vermont.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 59,
@@ -1176,8 +1432,12 @@
     "Conference": "Big East",
     "Record": "25–9",
     "Overall Seed": 21,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/villanova.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 60,
@@ -1196,8 +1456,12 @@
     "Conference": "ACC",
     "Record": "29–3",
     "Overall Seed": 2,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/virginia.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 61,
@@ -1216,8 +1480,12 @@
     "Conference": "Pac-12",
     "Record": "26–8",
     "Overall Seed": 33,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/washington.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 62,
@@ -1236,8 +1504,12 @@
     "Conference": "Big Ten",
     "Record": "23–10",
     "Overall Seed": 19,
+<<<<<<< HEAD
     "Berth type": "At-Large",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/wisconsin.svg"
+=======
+    "Berth type": "At-Large"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 63,
@@ -1256,8 +1528,12 @@
     "Conference": "Southern",
     "Record": "29–4",
     "Overall Seed": 28,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/wofford.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   },
   {
     "": 64,
@@ -1276,7 +1552,11 @@
     "Conference": "Ivy",
     "Record": "22–7",
     "Overall Seed": 55,
+<<<<<<< HEAD
     "Berth type": "Automatic",
     "schoolIcon": "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/yale.svg"
+=======
+    "Berth type": "Automatic"
+>>>>>>> f7599443e7f59e73bc05dc027533cd50f8936dd8
   }
 ]
